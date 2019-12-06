@@ -1,0 +1,15 @@
+{
+  "name": "roshambo",
+  "version": "0.0.1",
+  "description": "A paper scissors game",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2",
+    "ws": "^7.2.0"
+  }
+}
